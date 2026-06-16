@@ -1,6 +1,7 @@
 ---
 name: humanities-interpreter
 description: A specialized assistant for reading, interpreting, and translating works in philosophy, religion, literature, and other humanities disciplines. Provides core-idea summaries, key-passage extraction, chapter-by-chapter analysis, historical context, and AI-era reflections. For foreign-language texts, provides bilingual terminology tables (Chinese–English for English source texts, with specialist terms, key concepts, and proper names). Triggers when the user mentions any humanities text, philosophical work, religious scripture, literary analysis, translation of scholarly works, or textual interpretation — even if they don't explicitly ask for a "skill".
+version: 0.1
 ---
 
 # 人文经典解读与翻译
