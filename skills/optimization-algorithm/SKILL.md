@@ -1,6 +1,7 @@
 ---
 name: optimization-algorithm
 description: Design and improve optimization algorithms for operations research (linear programming, integer programming, nonlinear programming, convex optimization) and machine learning (SGD, Adam, BP, EM, Monte Carlo methods, MCMC). Improve classic algorithms with modern techniques, implement novel methods from recent arXiv papers, and solve constrained/unconstrained optimization problems with rigorous benchmarking. Use this skill whenever the user asks about optimization algorithms, solver design, convergence analysis, algorithm improvement, or implementing optimization methods from research papers — even if they don't explicitly name the technique.
+version: 0.1
 ---
 
 # Optimization Algorithm Design Skill
